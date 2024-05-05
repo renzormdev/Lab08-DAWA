@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "simeh2005",
+    "database": "bd_farmacia",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "simeh2005",
+    "database": "bd_farmacia",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "simeh2005",
+    "database": "bd_farmacia",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
